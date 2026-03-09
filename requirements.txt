@@ -1,0 +1,25 @@
+# Core OCR and Image Processing
+easyocr
+opencv-python
+pillow
+numpy
+
+# NLP and Text Processing
+spacy
+
+# Database and Excel
+pandas
+openpyxl
+
+# Google Sheets (Cloud database)
+gspread
+google-auth
+
+# Web Interface
+streamlit
+
+# File Monitoring
+watchdog
+
+# System and Utilities
+python-dateutil
