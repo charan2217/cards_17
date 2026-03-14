@@ -7,20 +7,17 @@ numpy
 # NLP and Text Processing
 spacy
 
-# Database and Excel
+# Database / Storage
 pandas
 openpyxl
-
-# Google Sheets (Cloud database)
 gspread
 google-auth
 
 # Web Interface
-streamlit
+streamlit>=1.32.0
 
 # File Monitoring
 watchdog
 
 # System and Utilities
 python-dateutil
-altair==4.2.2
