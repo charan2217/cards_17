@@ -1,6 +1,6 @@
 # Core OCR and Image Processing
 easyocr
-opencv-python
+opencv-python-headless
 pillow
 numpy
 
