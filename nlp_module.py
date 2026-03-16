@@ -3,7 +3,10 @@ import spacy
 from typing import Dict, List, Tuple
 from difflib import SequenceMatcher
 
-nlp = spacy.load("en_core_web_sm")
+try:
+    nlp = spacy.load("en_core_web_sm")
+except Exception:
+    nlp = spacy.blank("en")
 
 # Enhanced business patterns
 COMPANY_PATTERNS = [
