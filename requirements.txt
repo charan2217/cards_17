@@ -2,7 +2,7 @@
 easyocr
 opencv-python-headless
 pillow
-numpy
+numpy<2
 
 # NLP and Text Processing
 spacy==3.7.4
